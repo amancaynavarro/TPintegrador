@@ -1,0 +1,23 @@
+.naveg{
+    display: flex;
+    position: fixed;
+}
+
+nav img{
+    width: 60px;
+}
+
+footer{
+    color: white;
+    background-color: rgb(34, 34, 134);
+    margin-top: 40px;
+    padding: 35px;
+    height: 100px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer p:hover{
+    color: rgb(62, 132, 224);
+}
